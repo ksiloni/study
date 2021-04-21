@@ -1,0 +1,385 @@
+    1  git
+    2  quit
+    3  exit
+    4  rd
+    5  cd C/
+    6  cd c
+    7  cd c/user
+    8  cd c:/user
+    9  cd c\user
+   10  cd c:/user
+   11  cd
+   12  cd c/user
+   13  cd C:\Users\Student
+   14  cd C\Users\Student
+   15  cd C/Users/Student
+   16  cd C:/Users/Student
+   17  cd C://Users//Student
+   18  cd C://Users//Student/
+   19  cd C://Users//Student//
+   20  cd C://Users//Student//
+   21  cd c/users
+   22  cd /c/users
+   23  cd /c/users/student
+   24  cd NordSoft
+   25  git clone https://github.com/aitalyy/NordSoft.git
+   26  cd nordsoft
+   27  git status
+   28  git status
+   29  cd..
+   30  cd/
+   31  /cd
+   32  ls
+   33  cd KinoSoft/
+   34  gitasdasdaasd
+   35  git status
+   36  ls
+   37  cd-
+   38  cd -
+   39  cd -
+   40  cd -
+   41  cd -
+   42  cd -
+   43  cd ..
+   44  cd ..
+   45  cd NordSoft/
+   46  cd NordSoft/
+   47  git status
+   48  git status
+   49  git add .
+   50  git status
+   51  git commit -m "Dobavlen AddMovie.cs"
+   52  git push
+   53  git status
+   54  git push
+   55  git push -u origin master
+   56  git pull
+   57  git push
+   58  git config
+   59  cd ..
+   60  cd ..
+   61   cd..
+   62   cd ..
+   63   cd..
+   64   cd ..
+   65   cd ..
+   66  ls
+   67  cd ..
+   68  cd c
+   69  cd ..
+   70  cd C
+   71  ls
+   72  cd Users/
+   73  ls
+   74  cd Student/
+   75  ls
+   76  cd NordSoft/
+   77  ls
+   78  cd NordSoft/
+   79  git status
+   80  git push
+   81  cd NordSoft/
+   82  cd NordSoft/
+   83  git pull
+   84  git pull
+   85  git status
+   86  git stash
+   87  git status
+   88  git pull
+   89  git status
+   90  git add .
+   91  git status
+   92  git commint -m "Added class Passport"
+   93  git commit -m "Added class Passport"
+   94  git push
+   95  git push
+   96  git pull
+   97  git add .
+   98  git status
+   99  git commit -m "Added class Order"
+  100  git push
+  101  git pull
+  102  git pull
+  103  cd NordSoft/
+  104  cd NordSoft/
+  105  git pull
+  106  cd \C:\Users\Student\NordSoft\NordSoft
+  107  cd /C:/Users/Student/NordSoft/NordSoft
+  108  cd /C/Users/Student/NordSoft/NordSoft
+  109  git pull
+  110  git pull
+  111  git status
+  112  git add .
+  113  git commit -m "123"
+  114  git pull
+  115  git status
+  116  git pull
+  117  cd..
+  118  cd ..
+  119  cd NordSoft/
+  120  git pull
+  121  git status
+  122  git rm KinoSoft.v11.suo
+  123  git status
+  124  git commit -m "123"
+  125  cd ..
+  126  git clone https://github.com/aitalyy/NordSoft.git
+  127  ls
+  128  cd NordSoft/
+  129  git status
+  130  git pull
+  131  git pull
+  132  ls
+  133  cd NordSoft/
+  134  cd NordSoft/
+  135  git rm --cached --ignore-unmatch application.yml
+  136  git status
+  137  git rm --cached --ignore-unmatch kinosoft
+  138  git pull
+  139  git pull
+  140  cd..
+  141  ccd ..
+  142  cd ..
+  143  git clone https://github.com/aitalyy/NordSoft.git
+  144  ls
+  145  /c
+  146  cd /c
+  147  cd Users/
+  148  ls
+  149  cd Student/
+  150  cd NordSoft/NordSoft/
+  151  git status
+  152  git rm KinoSoft/UpgradeLog.XML 
+  153  git rm KinoSoft/UpgradeLog.* 
+  154  git status
+  155  git pull
+  156  git status
+  157  cd ..
+  158  cd NordSoft-master/
+  159  git status
+  160  git clone https://github.com/aitalyy/NordSoft.git
+  161  cd ..
+  162  git clone https://github.com/aitalyy/NordSoft.git
+  163  git pull
+  164  cd NordSoft/
+  165  git pull
+  166  git status
+  167  cd ..
+  168  git clone https://github.com/aitalyy/NordSoft.git
+  169  cd desktop/
+  170  mkdir pm-18
+  171  cd pm-18
+  172  mkdir EAS
+  173  cd eas
+  174  git init
+  175  ls -a
+  176  git config --global --list
+  177  git config --global user.name alexey
+  178  git config --global --list
+  179  touch readme.md
+  180  nano readme.md
+  181  cat readme.md
+  182  git status
+  183  git add readme.md
+  184  git status
+  185  git commit -m "kommentariy"
+  186  git status
+  187  git log
+  188  nano .gitignore
+  189  cat .gitignore
+  190  nano .gitignore
+  191  cat .gitignore
+  192  git add .gitignore
+  193  git commit -m "dobavil gitignore"
+  194  git log
+  195  nano hello.py
+  196  touch hello.pyc
+  197  ls -a
+  198  git status
+  199  cat hello.py
+  200  python3 hello.py
+  201  python hello.py
+  202  git add .
+  203  git status
+  204  git commit -m "kommit dlya hello.py"
+  205  git log
+  206  git status
+  207  git config --global alias.st status
+  208  git st
+  209  git config --global alias.ls log --pretty=format
+  210  git log
+  211  git ls
+  212  clear
+  213  clear
+  214  clear
+  215  clear
+  216  git ls
+  217  git config --global alias.ls 'log --pretty=format:"%h -%an, %ar:%s"'
+  218  git ls
+  219  nano .gitconfig
+  220  cd
+  221  nano .gitconfig
+  222  git ls
+  223  cd desktop/pm-18/eas
+  224  nano hello.py
+  225  git status
+  226  git add hello.py
+  227  git unstage
+  228  git status
+  229  git unstage
+  230  git unstage hello.py
+  231  git add hello.py
+  232  git status
+  233  git unstage
+  234  git status
+  235  history >> history 07-04.txt
+  236  history >> history07-04.txt
+  237  cat history07-04.txt
+  238  exit
+  239  git config --global--list
+  240  cd
+  241  ls -a
+  242  nano .gitconfig
+  243  ls -a
+  244  nano .gitconfig
+  245  ls -a
+  246  history
+  247  ls -a
+  248  cd desktop/pm-18/eas
+  249  git config --global--list
+  250  ls -a
+  251  nano hello.py
+  252  nano 1.cpp
+  253  git st
+  254  git add 1.cpp
+  255  git commit -m "kommit dlya 1.cpp"
+  256  git st
+  257  git add .
+  258  git st
+  259  git commit -m "kommit 14.04"
+  260  git st
+  261  git ls
+  262  nano doc.doc
+  263  git add .
+  264  git commit -m "kommit dlya doc.doc"
+  265  git ls
+  266  git reset --soft HEAD^1
+  267  git ls
+  268  git st
+  269  git commit -m "kommit snova"
+  270  git st
+  271  git reset --hard HEAD^1
+  272  git st
+  273  git ls
+  274  git st
+  275  git remote add https://github.com/ksiloni/HARDBASS_TUSOVKA
+  276  git remote add origin https://github.com/ksiloni/HARDBASS_TUSOVKA
+  277  git push -y origin master
+  278  git push -u origin master
+  279  git remote add origin https://github.com/ksiloni/study.git
+  280  git remote rm
+  281  git remote rm origin
+  282  git remote add origin https://github.com/ksiloni/study.git
+  283  git push -u origin master
+  284  git pull
+  285  git st
+  286  cd desktop/pm-18/eas
+  287  git st
+  288  git config --global --list
+  289  cd
+  290  nano .gitconfig
+  291  cd desktop/pm-18/eas
+  292  git ls
+  293  cd
+  294  nano .gitconfig
+  295  cd desktop/pm-18/eas
+  296  git ls
+  297  cd
+  298  nano .gitconfig
+  299  cd desktop/pm-18/eas
+  300  git ls
+  301  cd
+  302  nano .gitconfig
+  303  cd desktop/pm-18/eas
+  304  git ls
+  305  git branch
+  306  git branch test
+  307  git branch
+  308  git ls
+  309  git checkout test
+  310  git ls
+  311  ls
+  312  nano test.py
+  313  cat test.py
+  314  nano test.py
+  315  cat test.py
+  316  python3 test.py
+  317  python test.py
+  318  git st
+  319  git add test.py
+  320  ls
+  321  git commit -m "kommit dlya testovogo faila"
+  322  git st
+  323  git ls
+  324  git checkout master
+  325  git ls
+  326  ls
+  327  git checkout test
+  328  ls
+  329  git checkout master
+  330  ls
+  331  git ls
+  332  git merge test
+  333  git ls
+  334  ls
+  335  nano hello.py
+  336  git st
+  337  git add hello.py
+  338  git commit -m "kommit s mastera"
+  339  git ls
+  340  git checkout test
+  341  ls
+  342  nano test.py
+  343  git add test.py
+  344  git commit -m "kommit s testa"
+  345  git ls
+  346  git checkout master
+  347  git merge test
+  348  git ls
+  349  git branch -d test
+  350  git ls
+  351  git branch dev sha 3ea7618
+  352  git branch dev 3ea7618
+  353  git ls
+  354  git checkout dev
+  355  git ls
+  356  ls
+  357  git checkout master
+  358  nano readme.md
+  359  git add readme.md
+  360  git commit -m "vtoroi kommit dlya readme.md (eto vetka master)"
+  361  git ls
+  362  git checkout -b pm acfe760
+  363  ea7618 (origin/master, dev) Update readme.md
+  364  * 4f3d494 kommit 14.04
+  365  git ls
+  366  nano readme.md
+  367  git add readme.md
+  368  git commit -m "kommit dlya vetki pm"
+  369  git ls
+  370  git checkout master
+  371  git merge pm
+  372  git ls
+  373  cat readme.md
+  374  nano readme.md
+  375  nano readme.md
+  376  git st
+  377  git add .
+  378  git st
+  379  git commit -m "mer4 master-pm"
+  380  git ls
+  381  git push
+  382  git branch
+  383  git push origin dev
+  384  git push origin pm
+  385  history >> history21-04.txt
