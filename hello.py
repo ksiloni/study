@@ -1,2 +1,2 @@
-print("hello wrld")
+print("master")
 import numpy
